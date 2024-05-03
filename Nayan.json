@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "𝗧𝗔𝗡𝗩𝗜𝗥-𝗥𝗢𝗕𝗢𝗧"
   "PREFIX": "/",
   "OPERATOR": [
     "100014896964436",
-    "100000959749712"
+    "61552536510387"
   ],
   "ADMINBOT": [
     "100014896964436",
-    "100000959749712"
+    "61552536510387"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
